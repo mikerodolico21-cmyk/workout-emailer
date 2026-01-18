@@ -169,3 +169,7 @@ Edit the `create_email_content()` method in `src/send_workout.py`.
 ## License
 
 This project is open source and available under the MIT License.
+=======
+"# workout-emailer" 
+"# workout-emailer" 
+>>>>>>> 75444f6224c51ef88f1c979b023927c4694efc41
