@@ -65,6 +65,12 @@
       "muscle_group": "legs",
       "dumbbell_exercise": "Dumbbell Lunges",
       "bodyweight_exercise": "Lunges"
+    },
+    {
+      "date": "2026-01-18T22:41:04.276391",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Dumbbell Lunges",
+      "bodyweight_exercise": "Single Leg Squats"
     }
   ]
 }
