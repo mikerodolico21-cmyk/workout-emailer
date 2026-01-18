@@ -17,6 +17,12 @@
       "muscle_group": "legs",
       "dumbbell_exercise": "Dumbbell Romanian Deadlifts",
       "bodyweight_exercise": "Pistol Squats"
+    },
+    {
+      "date": "2026-01-18T21:49:08.246887",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Dumbbell Deadlifts",
+      "bodyweight_exercise": "Glute Bridges"
     }
   ]
 }
