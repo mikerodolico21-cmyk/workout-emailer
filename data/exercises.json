@@ -60,23 +60,28 @@
       },
       {
         "name": "Supermans",
-        "description": "Lie face down, arms extended forward. Lift chest, arms, and legs off floor. Hold briefly, lower slowly."
+        "description": "Lie face down, arms extended forward. Lift chest, arms, and legs off floor. Hold briefly, lower slowly.",
+        "video_url": "https://www.youtube.com/watch?v=PhR1oFY0I_g"
       },
       {
         "name": "Prone Cobras",
-        "description": "Lie face down, hands behind head. Lift chest off floor while squeezing shoulder blades. Hold and lower."
+        "description": "Lie face down, hands behind head. Lift chest off floor while squeezing shoulder blades. Hold and lower.",
+        "video_url": "https://www.youtube.com/watch?v=J2p4p8AqEoM"
       },
       {
         "name": "Reverse Snow Angels",
-        "description": "Lie face down, arms at sides. Sweep arms up and back like making snow angels. Keep thumbs pointing up."
+        "description": "Lie face down, arms at sides. Sweep arms up and back like making snow angels. Keep thumbs pointing up.",
+        "video_url": "https://www.youtube.com/watch?v=gL7z8Z3h2nM"
       },
       {
         "name": "Wall Angels",
-        "description": "Stand with back against wall, arms bent 90 degrees. Slide arms up and down wall while keeping contact."
+        "description": "Stand with back against wall, arms bent 90 degrees. Slide arms up and down wall while keeping contact.",
+        "video_url": "https://www.youtube.com/watch?v=L6F7k0-2y8E"
       },
       {
         "name": "Scapular Pull-ups",
-        "description": "Hang from bar. Pull shoulder blades down and together without bending arms. Hold briefly, relax."
+        "description": "Hang from bar. Pull shoulder blades down and together without bending arms. Hold briefly, relax.",
+        "video_url": "https://www.youtube.com/watch?v=qt2vMvzfU8E"
       }
     ]
   },
@@ -94,61 +99,75 @@
       },
       {
         "name": "Concentration Curls",
-        "description": "Sit, rest elbow on inner thigh. Curl dumbbell while isolating bicep. Focus on muscle contraction."
+        "description": "Sit, rest elbow on inner thigh. Curl dumbbell while isolating bicep. Focus on muscle contraction.",
+        "video_url": "https://www.youtube.com/watch?v=Sy9Yr5jG5e0"
       },
       {
         "name": "Incline Dumbbell Curls",
-        "description": "Sit on incline bench, let arms hang straight. Curl dumbbells with full range of motion. Control negative."
+        "description": "Sit on incline bench, let arms hang straight. Curl dumbbells with full range of motion. Control negative.",
+        "video_url": "https://www.youtube.com/watch?v=ZyOv3Rd5FkY"
       },
       {
         "name": "Preacher Curls",
-        "description": "Rest upper arms on preacher bench. Curl dumbbells while keeping arms stationary. Focus on bicep peak."
+        "description": "Rest upper arms on preacher bench. Curl dumbbells while keeping arms stationary. Focus on bicep peak.",
+        "video_url": "https://www.youtube.com/watch?v=kJ4vHk-3vL8"
       },
       {
         "name": "Zottman Curls",
-        "description": "Curl with palms up, rotate to palms down at top, lower slowly. Reverse grip on way up."
+        "description": "Curl with palms up, rotate to palms down at top, lower slowly. Reverse grip on way up.",
+        "video_url": "https://www.youtube.com/watch?v=8yEnQ_9y2jk"
       },
       {
         "name": "Reverse Curls",
-        "description": "Hold dumbbells with palms facing down. Curl up, focusing on forearms and brachialis. Keep elbows tight."
+        "description": "Hold dumbbells with palms facing down. Curl up, focusing on forearms and brachialis. Keep elbows tight.",
+        "video_url": "https://www.youtube.com/watch?v=8yEnQ_9y2jk"
       },
       {
         "name": "Cross Body Curls",
-        "description": "Curl dumbbell across body toward opposite shoulder. Rotate wrist as you curl. Alternate sides."
+        "description": "Curl dumbbell across body toward opposite shoulder. Rotate wrist as you curl. Alternate sides.",
+        "video_url": "https://www.youtube.com/watch?v=2-bj4n5XGtM"
       }
     ],
     "bodyweight": [
       {
         "name": "Chin-ups",
-        "description": "Hang from bar with underhand grip. Pull body up until chin clears bar. Focus on bicep contraction."
+        "description": "Hang from bar with underhand grip. Pull body up until chin clears bar. Focus on bicep contraction.",
+        "video_url": "https://www.youtube.com/watch?v=GO1A8cf2x8Q"
       },
       {
         "name": "Isometric Chin-up Holds",
-        "description": "Pull chin over bar and hold position for time. Lower slowly. Build static strength and endurance."
+        "description": "Pull chin over bar and hold position for time. Lower slowly. Build static strength and endurance.",
+        "video_url": "https://www.youtube.com/watch?v=GO1A8cf2x8Q"
       },
       {
         "name": "Towel Curls",
-        "description": "Loop towel over sturdy object. Grip towel ends and curl body toward hands. Adjust difficulty with grip."
+        "description": "Loop towel over sturdy object. Grip towel ends and curl body toward hands. Adjust difficulty with grip.",
+        "video_url": "https://www.youtube.com/watch?v=8rZ3j1kYV3U"
       },
       {
         "name": "Doorway Curls",
-        "description": "Stand in doorway, grip sides at shoulder height. Lean back and pull body forward using biceps."
+        "description": "Stand in doorway, grip sides at shoulder height. Lean back and pull body forward using biceps.",
+        "video_url": "https://www.youtube.com/watch?v=8rZ3j1kYV3U"
       },
       {
         "name": "Resistance Band Curls",
-        "description": "Stand on resistance band. Grip handles and curl up like dumbbell curls. Increase tension by standing wider."
+        "description": "Stand on resistance band. Grip handles and curl up like dumbbell curls. Increase tension by standing wider.",
+        "video_url": "https://www.youtube.com/watch?v=8rZ3j1kYV3U"
       },
       {
         "name": "Bodyweight Bicep Curls",
-        "description": "Sit on floor, knees bent, hands on floor behind you. Pull body toward hands using biceps."
+        "description": "Sit on floor, knees bent, hands on floor behind you. Pull body toward hands using biceps.",
+        "video_url": "https://www.youtube.com/watch?v=8rZ3j1kYV3U"
       },
       {
         "name": "Close Grip Pull-ups",
-        "description": "Hang from bar with narrow grip. Pull body up, focusing on biceps. Keep hands close together."
+        "description": "Hang from bar with narrow grip. Pull body up, focusing on biceps. Keep hands close together.",
+        "video_url": "https://www.youtube.com/watch?v=GO1A8cf2x8Q"
       },
       {
         "name": "Negative Chin-ups",
-        "description": "Jump to chin-up position, lower slowly taking 3-5 seconds. Build eccentric strength for full chin-ups."
+        "description": "Jump to chin-up position, lower slowly taking 3-5 seconds. Build eccentric strength for full chin-ups.",
+        "video_url": "https://www.youtube.com/watch?v=GO1A8cf2x8Q"
       }
     ]
   },
@@ -156,69 +175,85 @@
     "dumbbell": [
       {
         "name": "Dumbbell Overhead Extensions",
-        "description": "Hold dumbbell with both hands overhead. Lower behind head by bending elbows. Extend arms back up."
+        "description": "Hold dumbbell with both hands overhead. Lower behind head by bending elbows. Extend arms back up.",
+        "video_url": "https://www.youtube.com/watch?v=HJMPtN1yv3M"
       },
       {
         "name": "Dumbbell Skull Crushers",
-        "description": "Lie on back, hold dumbbells over chest. Lower to sides of head by bending elbows. Extend back up."
+        "description": "Lie on back, hold dumbbells over chest. Lower to sides of head by bending elbows. Extend back up.",
+        "video_url": "https://www.youtube.com/watch?v=2yz8hV47C9I"
       },
       {
         "name": "Dumbbell Kickbacks",
-        "description": "Bend forward, upper arm parallel to floor. Extend arm back by straightening elbow. Squeeze tricep."
+        "description": "Bend forward, upper arm parallel to floor. Extend arm back by straightening elbow. Squeeze tricep.",
+        "video_url": "https://www.youtube.com/watch?v=3VcKaUSpzSo"
       },
       {
         "name": "Close Grip Dumbbell Press",
-        "description": "Lie on back, hold dumbbells together over chest. Lower to chest, press up keeping dumbbells close."
+        "description": "Lie on back, hold dumbbells together over chest. Lower to chest, press up keeping dumbbells close.",
+        "video_url": "https://www.youtube.com/watch?v=2yz8hV47C9I"
       },
       {
         "name": "Dumbbell Floor Press",
-        "description": "Lie on floor, hold dumbbells over chest. Lower until triceps touch floor, press back up."
+        "description": "Lie on floor, hold dumbbells over chest. Lower until triceps touch floor, press back up.",
+        "video_url": "https://www.youtube.com/watch?v=2yz8hV47C9I"
       },
       {
         "name": "Dumbbell Tricep Extensions",
-        "description": "Lie on back, hold dumbbell with both hands. Extend arms vertically, lower behind head, repeat."
+        "description": "Lie on back, hold dumbbell with both hands. Extend arms vertically, lower behind head, repeat.",
+        "video_url": "https://www.youtube.com/watch?v=HJMPtN1yv3M"
       },
       {
         "name": "Single Arm Overhead Extensions",
-        "description": "Hold dumbbell in one hand overhead. Lower behind head, extend back up. Support elbow with other hand if needed."
+        "description": "Hold dumbbell in one hand overhead. Lower behind head, extend back up. Support elbow with other hand if needed.",
+        "video_url": "https://www.youtube.com/watch?v=HJMPtN1yv3M"
       },
       {
         "name": "Dumbbell Tricep Pullovers",
-        "description": "Lie on back, hold dumbbell with both hands. Lower behind head keeping arms straight. Pull back over chest."
+        "description": "Lie on back, hold dumbbell with both hands. Lower behind head keeping arms straight. Pull back over chest.",
+        "video_url": "https://www.youtube.com/watch?v=QvVq2sRbqSQ"
       }
     ],
     "bodyweight": [
       {
         "name": "Diamond Push-ups",
-        "description": "Place hands close together forming diamond shape with thumbs and index fingers. Lower chest to hands."
+        "description": "Place hands close together forming diamond shape with thumbs and index fingers. Lower chest to hands.",
+        "video_url": "https://www.youtube.com/watch?v=RSTy8OV2QIw"
       },
       {
         "name": "Dips",
-        "description": "Use parallel bars or sturdy chairs. Lower body by bending elbows until 90-degree angle. Press back up."
+        "description": "Use parallel bars or sturdy chairs. Lower body by bending elbows until 90-degree angle. Press back up.",
+        "video_url": "https://www.youtube.com/watch?v=2dz8hV47C9I"
       },
       {
         "name": "Tricep Dips on Bench",
-        "description": "Sit on bench edge, hands next to hips. Slide off bench, lower body by bending elbows. Press back up."
+        "description": "Sit on bench edge, hands next to hips. Slide off bench, lower body by bending elbows. Press back up.",
+        "video_url": "https://www.youtube.com/watch?v=2dz8hV47C9I"
       },
       {
         "name": "Close Grip Push-ups",
-        "description": "Place hands closer than shoulder-width. Lower chest to hands, keeping elbows close to body."
+        "description": "Place hands closer than shoulder-width. Lower chest to hands, keeping elbows close to body.",
+        "video_url": "https://www.youtube.com/watch?v=RSTy8OV2QIw"
       },
       {
         "name": "Bodyweight Tricep Extensions",
-        "description": "Kneel on floor, place forearms on ground. Push body forward using triceps, then back to start."
+        "description": "Kneel on floor, place forearms on ground. Push body forward using triceps, then back to start.",
+        "video_url": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
       },
       {
         "name": "Wall Dips",
-        "description": "Stand facing wall, hands on wall at shoulder height. Lean forward and bend elbows. Push back to start."
+        "description": "Stand facing wall, hands on wall at shoulder height. Lean forward and bend elbows. Push back to start.",
+        "video_url": "https://www.youtube.com/watch?v=2dz8hV47C9I"
       },
       {
         "name": "Floor Tricep Extensions",
-        "description": "Lie on floor, place hands near shoulders. Push body up by extending arms. Lower slowly."
+        "description": "Lie on floor, place hands near shoulders. Push body up by extending arms. Lower slowly.",
+        "video_url": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
       },
       {
         "name": "Decline Diamond Push-ups",
-        "description": "Place feet on elevated surface. Perform diamond push-ups for increased difficulty."
+        "description": "Place feet on elevated surface. Perform diamond push-ups for increased difficulty.",
+        "video_url": "https://www.youtube.com/watch?v=RSTy8OV2QIw"
       }
     ]
   },
