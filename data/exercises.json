@@ -433,69 +433,85 @@
     "dumbbell": [
       {
         "name": "Dumbbell Side Bends",
-        "description": "Stand holding dumbbell in one hand. Bend sideways at waist, lowering dumbbell. Return to upright position."
+        "description": "Stand holding dumbbell in one hand. Bend sideways at waist, lowering dumbbell. Return to upright position.",
+        "video_url": "https://www.youtube.com/watch?v=quRrqqv3_nk"
       },
       {
         "name": "Russian Twists with Dumbbell",
-        "description": "Sit on floor, lean back slightly. Hold dumbbell, twist torso side to side. Keep feet off floor."
+        "description": "Sit on floor, lean back slightly. Hold dumbbell, twist torso side to side. Keep feet off floor.",
+        "video_url": "https://www.youtube.com/watch?v=8rZ3j1kYV3U"
       },
       {
         "name": "Dumbbell Crunches",
-        "description": "Lie on back, hold dumbbell on chest. Perform crunch while holding weight. Exhale at top."
+        "description": "Lie on back, hold dumbbell on chest. Perform crunch while holding weight. Exhale at top.",
+        "video_url": "https://www.youtube.com/watch?v=8rZ3j1kYV3U"
       },
       {
         "name": "Dumbbell Leg Raises",
-        "description": "Lie on back, hold dumbbell between feet. Raise legs to 90 degrees, lower slowly. Keep lower back pressed down."
+        "description": "Lie on back, hold dumbbell between feet. Raise legs to 90 degrees, lower slowly. Keep lower back pressed down.",
+        "video_url": "https://www.youtube.com/watch?v=8rZ3j1kYV3U"
       },
       {
         "name": "Dumbbell Wood Chops",
-        "description": "Stand with dumbbell. Rotate torso diagonally upward across body. Alternate sides. Keep arms straight."
+        "description": "Stand with dumbbell. Rotate torso diagonally upward across body. Alternate sides. Keep arms straight.",
+        "video_url": "https://www.youtube.com/watch?v=8rZ3j1kYV3U"
       },
       {
         "name": "Dumbbell Plank Rows",
-        "description": "In plank position with dumbbells. Row one dumbbell while maintaining plank. Alternate sides."
+        "description": "In plank position with dumbbells. Row one dumbbell while maintaining plank. Alternate sides.",
+        "video_url": "https://www.youtube.com/watch?v=8rZ3j1kYV3U"
       },
       {
         "name": "Dumbbell Sit-ups",
-        "description": "Lie on back, hold dumbbell on chest. Perform full sit-up while holding weight. Control movement."
+        "description": "Lie on back, hold dumbbell on chest. Perform full sit-up while holding weight. Control movement.",
+        "video_url": "https://www.youtube.com/watch?v=8rZ3j1kYV3U"
       },
       {
         "name": "Dumbbell Bicycle Crunches",
-        "description": "Lie on back, hold light dumbbell. Perform bicycle crunches while holding weight for resistance."
+        "description": "Lie on back, hold light dumbbell. Perform bicycle crunches while holding weight for resistance.",
+        "video_url": "https://www.youtube.com/watch?v=8rZ3j1kYV3U"
       }
     ],
     "bodyweight": [
       {
         "name": "Plank",
-        "description": "Hold push-up position on forearms. Keep body straight from head to heels. Engage core throughout."
+        "description": "Hold push-up position on forearms. Keep body straight from head to heels. Engage core throughout.",
+        "video_url": "https://www.youtube.com/watch?v=ASdvN_Xel_c"
       },
       {
         "name": "Crunches",
-        "description": "Lie on back, knees bent. Lift shoulders off floor using abs. Lower slowly. Exhale at top."
+        "description": "Lie on back, knees bent. Lift shoulders off floor using abs. Lower slowly. Exhale at top.",
+        "video_url": "https://www.youtube.com/watch?v=ASdvN_Xel_c"
       },
       {
         "name": "Leg Raises",
-        "description": "Lie on back, hands under hips. Raise legs to 90 degrees, lower slowly. Keep lower back pressed down."
+        "description": "Lie on back, hands under hips. Raise legs to 90 degrees, lower slowly. Keep lower back pressed down.",
+        "video_url": "https://www.youtube.com/watch?v=ASdvN_Xel_c"
       },
       {
         "name": "Russian Twists",
-        "description": "Sit on floor, lean back slightly. Twist torso side to side. Keep feet off floor for difficulty."
+        "description": "Sit on floor, lean back slightly. Twist torso side to side. Keep feet off floor for difficulty.",
+        "video_url": "https://www.youtube.com/watch?v=8rZ3j1kYV3U"
       },
       {
         "name": "Mountain Climbers",
-        "description": "In push-up position, alternate bringing knees to chest quickly. Keep hips down and core tight."
+        "description": "In push-up position, alternate bringing knees to chest quickly. Keep hips down and core tight.",
+        "video_url": "https://www.youtube.com/watch?v=nmwgirgXLYM"
       },
       {
         "name": "Bicycle Crunches",
-        "description": "Lie on back, bring opposite elbow to knee. Alternate sides in pedaling motion. Keep lower back down."
+        "description": "Lie on back, bring opposite elbow to knee. Alternate sides in pedaling motion. Keep lower back down.",
+        "video_url": "https://www.youtube.com/watch?v=ASdvN_Xel_c"
       },
       {
         "name": "Side Plank",
-        "description": "Support body on one forearm and side of foot. Keep body straight. Hold on both sides."
+        "description": "Support body on one forearm and side of foot. Keep body straight. Hold on both sides.",
+        "video_url": "https://www.youtube.com/watch?v=ASdvN_Xel_c"
       },
       {
         "name": "Hollow Body Hold",
-        "description": "Lie on back, lift shoulders and legs off floor. Keep lower back pressed down. Hold position."
+        "description": "Lie on back, lift shoulders and legs off floor. Keep lower back pressed down. Hold position.",
+        "video_url": "https://www.youtube.com/watch?v=ASdvN_Xel_c"
       }
     ]
   },
@@ -503,69 +519,85 @@
     "dumbbell": [
       {
         "name": "Dumbbell Squats",
-        "description": "Hold dumbbells at shoulders. Squat until thighs parallel to floor. Keep chest up and back straight."
+        "description": "Hold dumbbells at shoulders. Squat until thighs parallel to floor. Keep chest up and back straight.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       },
       {
         "name": "Dumbbell Lunges",
-        "description": "Hold dumbbells at sides. Step forward, lower back knee toward floor. Push back to start. Alternate legs."
+        "description": "Hold dumbbells at sides. Step forward, lower back knee toward floor. Push back to start. Alternate legs.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       },
       {
         "name": "Dumbbell Deadlifts",
-        "description": "Stand with dumbbells at thighs. Hinge at hips, lower weights toward floor. Return to standing."
+        "description": "Stand with dumbbells at thighs. Hinge at hips, lower weights toward floor. Return to standing.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       },
       {
         "name": "Goblet Squats",
-        "description": "Hold one dumbbell vertically at chest. Squat deep, keeping chest up. Use elbows to push knees out."
+        "description": "Hold one dumbbell vertically at chest. Squat deep, keeping chest up. Use elbows to push knees out.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       },
       {
         "name": "Bulgarian Split Squats",
-        "description": "Place rear foot on bench. Hold dumbbells, lower into lunge. Front thigh parallel to floor."
+        "description": "Place rear foot on bench. Hold dumbbells, lower into lunge. Front thigh parallel to floor.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       },
       {
         "name": "Dumbbell Step-ups",
-        "description": "Hold dumbbells, step onto bench with one foot. Step up fully, step down. Alternate legs."
+        "description": "Hold dumbbells, step onto bench with one foot. Step up fully, step down. Alternate legs.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       },
       {
         "name": "Dumbbell Calf Raises",
-        "description": "Hold dumbbells at sides. Rise onto toes, hold briefly. Lower heels below step if possible."
+        "description": "Hold dumbbells at sides. Rise onto toes, hold briefly. Lower heels below step if possible.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       },
       {
         "name": "Dumbbell Romanian Deadlifts",
-        "description": "Hold dumbbells in front. Hinge at hips with slight knee bend. Lower weights to mid-shin, return."
+        "description": "Hold dumbbells in front. Hinge at hips with slight knee bend. Lower weights to mid-shin, return.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       }
     ],
     "bodyweight": [
       {
         "name": "Bodyweight Squats",
-        "description": "Stand with feet shoulder-width. Squat until thighs parallel to floor. Keep chest up and back straight."
+        "description": "Stand with feet shoulder-width. Squat until thighs parallel to floor. Keep chest up and back straight.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       },
       {
         "name": "Lunges",
-        "description": "Step forward, lower back knee toward floor. Front knee at 90 degrees. Push back to start. Alternate legs."
+        "description": "Step forward, lower back knee toward floor. Front knee at 90 degrees. Push back to start. Alternate legs.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       },
       {
         "name": "Jump Squats",
-        "description": "Perform squat, then jump explosively upward. Land softly and immediately go into next squat."
+        "description": "Perform squat, then jump explosively upward. Land softly and immediately go into next squat.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       },
       {
         "name": "Pistol Squats",
-        "description": "Stand on one leg, extend other forward. Squat deeply on standing leg. Use support for balance."
+        "description": "Stand on one leg, extend other forward. Squat deeply on standing leg. Use support for balance.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       },
       {
         "name": "Wall Sit",
-        "description": "Lean against wall, slide down until thighs parallel to floor. Hold position with back against wall."
+        "description": "Lean against wall, slide down until thighs parallel to floor. Hold position with back against wall.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       },
       {
         "name": "Calf Raises",
-        "description": "Stand on edge of step. Rise onto toes, hold briefly. Lower heels below step for full range."
+        "description": "Stand on edge of step. Rise onto toes, hold briefly. Lower heels below step for full range.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       },
       {
         "name": "Glute Bridges",
-        "description": "Lie on back, knees bent. Lift hips toward ceiling, squeezing glutes. Lower slowly."
+        "description": "Lie on back, knees bent. Lift hips toward ceiling, squeezing glutes. Lower slowly.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       },
       {
         "name": "Single Leg Squats",
-        "description": "Stand on one leg, squat as deep as possible. Use support for balance if needed."
+        "description": "Stand on one leg, squat as deep as possible. Use support for balance if needed.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       }
     ]
   }
