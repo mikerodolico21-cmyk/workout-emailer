@@ -113,11 +113,17 @@ class WorkoutEmailer:
         # Extract names and descriptions from exercise objects
         dumbbell_name = dumbbell_exercise["name"] if isinstance(dumbbell_exercise, dict) else dumbbell_exercise
         dumbbell_desc = dumbbell_exercise["description"] if isinstance(dumbbell_exercise, dict) else ""
+        dumbbell_video = dumbbell_exercise.get("video_url", "") if isinstance(dumbbell_exercise, dict) else ""
         
         bodyweight_name = bodyweight_exercise["name"] if isinstance(bodyweight_exercise, dict) else bodyweight_exercise
         bodyweight_desc = bodyweight_exercise["description"] if isinstance(bodyweight_exercise, dict) else ""
+        bodyweight_video = bodyweight_exercise.get("video_url", "") if isinstance(bodyweight_exercise, dict) else ""
         
         subject = f"Today's {muscle_group.title()} Workout"
+        
+        # Generate video links if available
+        dumbbell_video_link = f'<p style="margin: 10px 0;"><a href="{dumbbell_video}" style="color: #3498db; text-decoration: none;">📹 Watch Video Guide</a></p>' if dumbbell_video else ''
+        bodyweight_video_link = f'<p style="margin: 10px 0;"><a href="{bodyweight_video}" style="color: #3498db; text-decoration: none;">📹 Watch Video Guide</a></p>' if bodyweight_video else ''
         
         # HTML email content for proper formatting
         body_html = f"""
@@ -132,12 +138,14 @@ class WorkoutEmailer:
     <h2 style="color: #3498db;">1️⃣ Dumbbell Exercise</h2>
     <h3 style="color: #2c3e50; margin: 10px 0;">{dumbbell_name}</h3>
     <p style="margin: 15px 0;">{dumbbell_desc}</p>
+    {dumbbell_video_link}
     
     <hr style="border: none; border-top: 1px solid #ecf0f1; margin: 30px 0;">
     
     <h2 style="color: #3498db;">2️⃣ Bodyweight Exercise</h2>
     <h3 style="color: #2c3e50; margin: 10px 0;">{bodyweight_name}</h3>
     <p style="margin: 15px 0;">{bodyweight_desc}</p>
+    {bodyweight_video_link}
     
     <hr style="border: none; border-top: 1px solid #ecf0f1; margin: 30px 0;">
     
@@ -149,7 +157,10 @@ class WorkoutEmailer:
 </html>
 """
         
-        # Plain text version for fallback
+        # Plain text version with video links
+        dumbbell_video_text = f"\n📹 Video Guide: {dumbbell_video}" if dumbbell_video else ""
+        bodyweight_video_text = f"\n📹 Video Guide: {bodyweight_video}" if bodyweight_video else ""
+        
         body_text = f"""
 {muscle_group.title()} Workout
 3 Sets × 10 Reps
@@ -159,14 +170,14 @@ class WorkoutEmailer:
 1️⃣ Dumbbell Exercise
 {dumbbell_name}
 
-{dumbbell_desc}
+{dumbbell_desc}{dumbbell_video_text}
 
 ---
 
 2️⃣ Bodyweight Exercise  
 {bodyweight_name}
 
-{bodyweight_desc}
+{bodyweight_desc}{bodyweight_video_text}
 
 ---
 

@@ -3,49 +3,60 @@
     "dumbbell": [
       {
         "name": "Dumbbell Rows",
-        "description": "Bend knees slightly, hinge at hips with flat back. Pull dumbbells to chest, squeezing shoulder blades together. Lower slowly."
+        "description": "Bend knees slightly, hinge at hips with flat back. Pull dumbbells to chest, squeezing shoulder blades together. Lower slowly.",
+        "video_url": "https://www.youtube.com/watch?v=2t-L1yBHOjQ"
       },
       {
         "name": "Single Arm Dumbbell Rows",
-        "description": "Place one knee and hand on bench, other foot on floor. Pull dumbbell to hip, keeping back straight. Alternate sides."
+        "description": "Place one knee and hand on bench, other foot on floor. Pull dumbbell to hip, keeping back straight. Alternate sides.",
+        "video_url": "https://www.youtube.com/watch?v=MEpe1t0t_4M"
       },
       {
         "name": "Dumbbell Pullovers",
-        "description": "Lie on back, hold dumbbell with both hands over chest. Lower behind head while keeping arms slightly bent. Return to start."
+        "description": "Lie on back, hold dumbbell with both hands over chest. Lower behind head while keeping arms slightly bent. Return to start.",
+        "video_url": "https://www.youtube.com/watch?v=QvVq2sRbqSQ"
       },
       {
         "name": "Reverse Grip Dumbbell Rows",
-        "description": "Hold dumbbells with palms facing forward. Pull to chest, focusing on lower lats. Keep elbows close to body."
+        "description": "Hold dumbbells with palms facing forward. Pull to chest, focusing on lower lats. Keep elbows close to body.",
+        "video_url": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
       },
       {
         "name": "Dumbbell Deadlifts",
-        "description": "Stand with dumbbells at thighs. Hinge at hips, lower weights toward floor with straight legs. Return to standing by squeezing glutes."
+        "description": "Stand with dumbbells at thighs. Hinge at hips, lower weights toward floor with straight legs. Return to standing by squeezing glutes.",
+        "video_url": "https://www.youtube.com/watch?v=r4MzTtjAh5I"
       },
       {
         "name": "Bent Over Dumbbell Rows",
-        "description": "Bend at 45-degree angle with flat back. Pull dumbbells to lower chest. Keep core engaged throughout movement."
+        "description": "Bend at 45-degree angle with flat back. Pull dumbbells to lower chest. Keep core engaged throughout movement.",
+        "video_url": "https://www.youtube.com/watch?v=71NZbA09aA4"
       },
       {
         "name": "Dumbbell Shrugs",
-        "description": "Stand straight, hold dumbbells at sides. Shrug shoulders toward ears, hold briefly, then lower. Avoid rolling shoulders."
+        "description": "Stand straight, hold dumbbells at sides. Shrug shoulders toward ears, hold briefly, then lower. Avoid rolling shoulders.",
+        "video_url": "https://www.youtube.com/watch?v=quRrqqv3_nk"
       },
       {
         "name": "Dumbbell Reverse Flys",
-        "description": "Bend at hips with flat back, slight knee bend. Raise dumbbells out to sides at shoulder height. Squeeze shoulder blades."
+        "description": "Bend at hips with flat back, slight knee bend. Raise dumbbells out to sides at shoulder height. Squeeze shoulder blades.",
+        "video_url": "https://www.youtube.com/watch?v=3VcKaUSpzSo"
       }
     ],
     "bodyweight": [
       {
         "name": "Pull-ups",
-        "description": "Hang from bar with overhand grip. Pull body up until chin clears bar. Lower slowly with control."
+        "description": "Hang from bar with overhand grip. Pull body up until chin clears bar. Lower slowly with control.",
+        "video_url": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
       },
       {
         "name": "Chin-ups",
-        "description": "Hang from bar with underhand grip. Pull body up, focusing on biceps and back. Lower under control."
+        "description": "Hang from bar with underhand grip. Pull body up, focusing on biceps and back. Lower under control.",
+        "video_url": "https://www.youtube.com/watch?v=GO1A8cf2x8Q"
       },
       {
         "name": "Bodyweight Rows",
-        "description": "Lie under sturdy table or bar. Pull chest toward hands, keeping body straight. Lower slowly."
+        "description": "Lie under sturdy table or bar. Pull chest toward hands, keeping body straight. Lower slowly.",
+        "video_url": "https://www.youtube.com/watch?v=PMw1vXGgKmQ"
       },
       {
         "name": "Supermans",
@@ -73,11 +84,13 @@
     "dumbbell": [
       {
         "name": "Dumbbell Curls",
-        "description": "Stand with palms facing forward. Curl dumbbells toward shoulders, keeping elbows stationary. Lower slowly."
+        "description": "Stand with palms facing forward. Curl dumbbells toward shoulders, keeping elbows stationary. Lower slowly.",
+        "video_url": "https://www.youtube.com/watch?v=ykJmrZ5v0Oo"
       },
       {
         "name": "Hammer Curls",
-        "description": "Hold dumbbells with palms facing each other. Curl up toward shoulders. Keep wrists straight throughout."
+        "description": "Hold dumbbells with palms facing each other. Curl up toward shoulders. Keep wrists straight throughout.",
+        "video_url": "https://www.youtube.com/watch?v=mHqmB-0-s3U"
       },
       {
         "name": "Concentration Curls",
@@ -247,11 +260,13 @@
     "bodyweight": [
       {
         "name": "Push-ups",
-        "description": "Hands shoulder-width apart. Lower chest to floor, keeping body straight. Push back to start position."
+        "description": "Hands shoulder-width apart. Lower chest to floor, keeping body straight. Push back to start position.",
+        "video_url": "https://www.youtube.com/watch?v=IODxDxX7oi4"
       },
       {
         "name": "Wide Push-ups",
-        "description": "Place hands wider than shoulders. Lower chest, focus on outer chest. Keep elbows flared slightly."
+        "description": "Place hands wider than shoulders. Lower chest, focus on outer chest. Keep elbows flared slightly.",
+        "video_url": "https://www.youtube.com/watch?v=RSTy8OV2QIw"
       },
       {
         "name": "Close Push-ups",
