@@ -11,6 +11,12 @@
       "muscle_group": "legs",
       "dumbbell_exercise": "Dumbbell Squats",
       "bodyweight_exercise": "Single Leg Squats"
+    },
+    {
+      "date": "2026-01-18T21:47:33.576272",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Dumbbell Romanian Deadlifts",
+      "bodyweight_exercise": "Pistol Squats"
     }
   ]
 }
