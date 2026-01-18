@@ -195,13 +195,19 @@ Stay hydrated and maintain good form. You've got this!
         sender_email = os.getenv("SENDER_EMAIL")
         sender_password = os.getenv("SENDER_PASSWORD")
         recipient_email = os.getenv("RECIPIENT_EMAIL")
+        recipient_email_2 = os.getenv("RECIPIENT_EMAIL_2")
         
         if not all([smtp_server, sender_email, sender_password, recipient_email]):
             raise ValueError("Missing required email configuration environment variables")
         
+        # Create list of recipients
+        recipients = [recipient_email]
+        if recipient_email_2:
+            recipients.append(recipient_email_2)
+        
         message = MIMEMultipart("alternative")
         message["From"] = sender_email
-        message["To"] = recipient_email
+        message["To"] = ", ".join(recipients)  # Set To header to all recipients
         message["Subject"] = subject
         
         # Attach both plain text and HTML versions
@@ -212,8 +218,9 @@ Stay hydrated and maintain good form. You've got this!
             with smtplib.SMTP(smtp_server, smtp_port) as server:
                 server.starttls()
                 server.login(sender_email, sender_password)
+                # Send to all recipients
                 server.send_message(message)
-            logger.info("Email sent successfully")
+            logger.info(f"Email sent successfully to {len(recipients)} recipient(s)")
         except Exception as e:
             logger.error(f"Error sending email: {e}")
             raise

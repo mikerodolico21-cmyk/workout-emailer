@@ -40,7 +40,8 @@ Go to your repository's **Settings > Secrets and variables > Actions** and add t
 | `SMTP_PORT` | SMTP port number | `587` |
 | `SENDER_EMAIL` | Your email address | `your.email@gmail.com` |
 | `SENDER_PASSWORD` | Your email password or app password | `your-app-password` |
-| `RECIPIENT_EMAIL` | Email address to receive workouts | `your.email@gmail.com` |
+| `RECIPIENT_EMAIL` | Primary email address to receive workouts | `your.email@gmail.com` |
+| `RECIPIENT_EMAIL_2` | Secondary email address (optional) | `friend.email@gmail.com` |
 
 #### Gmail Setup
 
