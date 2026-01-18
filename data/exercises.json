@@ -261,35 +261,43 @@
     "dumbbell": [
       {
         "name": "Dumbbell Bench Press",
-        "description": "Lie on bench, hold dumbbells over chest. Lower to chest level, press back up. Keep controlled motion."
+        "description": "Lie on bench, hold dumbbells over chest. Lower to chest level, press back up. Keep controlled motion.",
+        "video_url": "https://www.youtube.com/watch?v=IODxDxX7oi4"
       },
       {
         "name": "Dumbbell Flys",
-        "description": "Lie on bench, arms extended with slight bend. Lower arms out to sides, raise back up like hugging tree."
+        "description": "Lie on bench, arms extended with slight bend. Lower arms out to sides, raise back up like hugging tree.",
+        "video_url": "https://www.youtube.com/watch?v=IODxDxX7oi4"
       },
       {
         "name": "Incline Dumbbell Press",
-        "description": "Lie on incline bench (30-45 degrees). Press dumbbells upward focusing on upper chest. Control negative."
+        "description": "Lie on incline bench (30-45 degrees). Press dumbbells upward focusing on upper chest. Control negative.",
+        "video_url": "https://www.youtube.com/watch?v=IODxDxX7oi4"
       },
       {
         "name": "Decline Dumbbell Press",
-        "description": "Lie on decline bench. Press dumbbells upward focusing on lower chest. Keep stable throughout."
+        "description": "Lie on decline bench. Press dumbbells upward focusing on lower chest. Keep stable throughout.",
+        "video_url": "https://www.youtube.com/watch?v=IODxDxX7oi4"
       },
       {
         "name": "Dumbbell Pullovers",
-        "description": "Lie across bench, hold dumbbell with both hands. Lower behind head, pull back over chest. Stretch chest."
+        "description": "Lie across bench, hold dumbbell with both hands. Lower behind head, pull back over chest. Stretch chest.",
+        "video_url": "https://www.youtube.com/watch?v=QvVq2sRbqSQ"
       },
       {
         "name": "Single Arm Dumbbell Press",
-        "description": "Lie on flat bench, press one dumbbell at a time. Engage core for stability. Alternate sides."
+        "description": "Lie on flat bench, press one dumbbell at a time. Engage core for stability. Alternate sides.",
+        "video_url": "https://www.youtube.com/watch?v=IODxDxX7oi4"
       },
       {
         "name": "Dumbbell Squeeze Press",
-        "description": "Lie on bench, press dumbbells together. Squeeze throughout movement to engage inner chest."
+        "description": "Lie on bench, press dumbbells together. Squeeze throughout movement to engage inner chest.",
+        "video_url": "https://www.youtube.com/watch?v=IODxDxX7oi4"
       },
       {
         "name": "Flat Dumbbell Press",
-        "description": "Lie on flat bench, press dumbbells from chest to overhead. Keep elbows at 45-degree angle."
+        "description": "Lie on flat bench, press dumbbells from chest to overhead. Keep elbows at 45-degree angle.",
+        "video_url": "https://www.youtube.com/watch?v=IODxDxX7oi4"
       }
     ],
     "bodyweight": [
@@ -305,27 +313,33 @@
       },
       {
         "name": "Close Push-ups",
-        "description": "Place hands close together. Lower chest to hands, keeping elbows close to body. Targets inner chest."
+        "description": "Place hands close together. Lower chest to hands, keeping elbows close to body. Targets inner chest.",
+        "video_url": "https://www.youtube.com/watch?v=RSTy8OV2QIw"
       },
       {
         "name": "Decline Push-ups",
-        "description": "Place feet on elevated surface. Lower chest to floor, emphasizing upper chest. Increase height for difficulty."
+        "description": "Place feet on elevated surface. Lower chest to floor, emphasizing upper chest. Increase height for difficulty.",
+        "video_url": "https://www.youtube.com/watch?v=RSTy8OV2QIw"
       },
       {
         "name": "Incline Push-ups",
-        "description": "Place hands on elevated surface. Lower chest to hands. Easier variation, good for beginners."
+        "description": "Place hands on elevated surface. Lower chest to hands. Easier variation, good for beginners.",
+        "video_url": "https://www.youtube.com/watch?v=IODxDxX7oi4"
       },
       {
         "name": "Diamond Push-ups",
-        "description": "Form diamond with hands. Lower chest to hands. Targets triceps and inner chest."
+        "description": "Form diamond with hands. Lower chest to hands. Targets triceps and inner chest.",
+        "video_url": "https://www.youtube.com/watch?v=RSTy8OV2QIw"
       },
       {
         "name": "Plyometric Push-ups",
-        "description": "Push up explosively so hands leave floor. Clap hands if possible. Land softly."
+        "description": "Push up explosively so hands leave floor. Clap hands if possible. Land softly.",
+        "video_url": "https://www.youtube.com/watch?v=IODxDxX7oi4"
       },
       {
         "name": "Push-up Holds",
-        "description": "Hold push-up position at various points. Build isometric strength and stability."
+        "description": "Hold push-up position at various points. Build isometric strength and stability.",
+        "video_url": "https://www.youtube.com/watch?v=IODxDxX7oi4"
       }
     ]
   },
@@ -333,69 +347,85 @@
     "dumbbell": [
       {
         "name": "Dumbbell Shoulder Press",
-        "description": "Sit or stand, hold dumbbells at shoulder height. Press overhead until arms fully extended. Lower slowly."
+        "description": "Sit or stand, hold dumbbells at shoulder height. Press overhead until arms fully extended. Lower slowly.",
+        "video_url": "https://www.youtube.com/watch?v=HJMPtN1yv3M"
       },
       {
         "name": "Lateral Raises",
-        "description": "Stand with dumbbells at sides. Raise arms out to shoulder height, leading with elbows. Lower slowly."
+        "description": "Stand with dumbbells at sides. Raise arms out to shoulder height, leading with elbows. Lower slowly.",
+        "video_url": "https://www.youtube.com/watch?v=3VcKaUSpzSo"
       },
       {
         "name": "Front Raises",
-        "description": "Stand with dumbbells at thighs. Raise arms straight forward to shoulder height. Lower with control."
+        "description": "Stand with dumbbells at thighs. Raise arms straight forward to shoulder height. Lower with control.",
+        "video_url": "https://www.youtube.com/watch?v=3VcKaUSpzSo"
       },
       {
         "name": "Reverse Flys",
-        "description": "Bend at hips with flat back. Raise dumbbells out to sides at shoulder height. Squeeze shoulder blades."
+        "description": "Bend at hips with flat back. Raise dumbbells out to sides at shoulder height. Squeeze shoulder blades.",
+        "video_url": "https://www.youtube.com/watch?v=3VcKaUSpzSo"
       },
       {
         "name": "Upright Rows",
-        "description": "Hold dumbbells in front of body. Pull upward along torso, leading with elbows. Stop at chest height."
+        "description": "Hold dumbbells in front of body. Pull upward along torso, leading with elbows. Stop at chest height.",
+        "video_url": "https://www.youtube.com/watch?v=3VcKaUSpzSo"
       },
       {
         "name": "Arnold Press",
-        "description": "Start with palms facing chest. Press overhead while rotating palms forward. Reverse on way down."
+        "description": "Start with palms facing chest. Press overhead while rotating palms forward. Reverse on way down.",
+        "video_url": "https://www.youtube.com/watch?v=HJMPtN1yv3M"
       },
       {
         "name": "Dumbbell Shrugs",
-        "description": "Hold dumbbells at sides. Shrug shoulders toward ears, hold briefly. Avoid rolling shoulders."
+        "description": "Hold dumbbells at sides. Shrug shoulders toward ears, hold briefly. Avoid rolling shoulders.",
+        "video_url": "https://www.youtube.com/watch?v=quRrqqv3_nk"
       },
       {
         "name": "Face Pulls with Dumbbell",
-        "description": "Lie on incline bench, hold dumbbell with both hands. Pull toward face, leading with elbows."
+        "description": "Lie on incline bench, hold dumbbell with both hands. Pull toward face, leading with elbows.",
+        "video_url": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
       }
     ],
     "bodyweight": [
       {
         "name": "Pike Push-ups",
-        "description": "Start in downward dog position. Lower head toward floor, press back up. Targets shoulders."
+        "description": "Start in downward dog position. Lower head toward floor, press back up. Targets shoulders.",
+        "video_url": "https://www.youtube.com/watch?v=RSTy8OV2QIw"
       },
       {
         "name": "Handstand Push-ups",
-        "description": "Kick up into handstand against wall. Lower head toward floor, press back up. Advanced shoulder exercise."
+        "description": "Kick up into handstand against wall. Lower head toward floor, press back up. Advanced shoulder exercise.",
+        "video_url": "https://www.youtube.com/watch?v=RSTy8OV2QIw"
       },
       {
         "name": "Wall Walks",
-        "description": "Start in push-up position facing wall. Walk feet up wall into handstand. Walk back down carefully."
+        "description": "Start in push-up position facing wall. Walk feet up wall into handstand. Walk back down carefully.",
+        "video_url": "https://www.youtube.com/watch?v=RSTy8OV2QIw"
       },
       {
         "name": "Shoulder Taps",
-        "description": "In push-up position, tap opposite shoulder while keeping hips stable. Alternate sides."
+        "description": "In push-up position, tap opposite shoulder while keeping hips stable. Alternate sides.",
+        "video_url": "https://www.youtube.com/watch?v=RSTy8OV2QIw"
       },
       {
         "name": "Plank Shoulder Taps",
-        "description": "In plank position, tap opposite shoulder. Keep core engaged and hips from rocking."
+        "description": "In plank position, tap opposite shoulder. Keep core engaged and hips from rocking.",
+        "video_url": "https://www.youtube.com/watch?v=RSTy8OV2QIw"
       },
       {
         "name": "Bodyweight Shoulder Press",
-        "description": "Sit with knees bent, hands on floor behind you. Press body upward using shoulders."
+        "description": "Sit with knees bent, hands on floor behind you. Press body upward using shoulders.",
+        "video_url": "https://www.youtube.com/watch?v=8iPEnn-ltC8"
       },
       {
         "name": "Incline Push-ups",
-        "description": "Place hands on elevated surface. Lower chest to hands. Emphasizes shoulders more than chest."
+        "description": "Place hands on elevated surface. Lower chest to hands. Emphasizes shoulders more than chest.",
+        "video_url": "https://www.youtube.com/watch?v=IODxDxX7oi4"
       },
       {
         "name": "Bear Crawls",
-        "description": "On all fours, crawl forward keeping back flat and knees off floor. Engages shoulders and core."
+        "description": "On all fours, crawl forward keeping back flat and knees off floor. Engages shoulders and core.",
+        "video_url": "https://www.youtube.com/watch?v=RSTy8OV2QIw"
       }
     ]
   },
