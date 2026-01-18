@@ -5,6 +5,12 @@
       "muscle_group": "legs",
       "dumbbell_exercise": "Dumbbell Calf Raises",
       "bodyweight_exercise": "Single Leg Squats"
+    },
+    {
+      "date": "2026-01-18T21:45:02.176672",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Dumbbell Squats",
+      "bodyweight_exercise": "Single Leg Squats"
     }
   ]
 }
