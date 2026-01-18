@@ -47,6 +47,12 @@
       "muscle_group": "legs",
       "dumbbell_exercise": "Goblet Squats",
       "bodyweight_exercise": "Lunges"
+    },
+    {
+      "date": "2026-01-18T22:23:22.373277",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Dumbbell Deadlifts",
+      "bodyweight_exercise": "Pistol Squats"
     }
   ]
 }
