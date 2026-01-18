@@ -35,6 +35,12 @@
       "muscle_group": "legs",
       "dumbbell_exercise": "Dumbbell Lunges",
       "bodyweight_exercise": "Glute Bridges"
+    },
+    {
+      "date": "2026-01-18T21:58:10.166377",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Dumbbell Step-ups",
+      "bodyweight_exercise": "Bodyweight Squats"
     }
   ]
 }
