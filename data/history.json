@@ -1,3 +1,10 @@
 {
-  "workouts": []
+  "workouts": [
+    {
+      "date": "2026-01-18T21:42:14.310337",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Dumbbell Calf Raises",
+      "bodyweight_exercise": "Single Leg Squats"
+    }
+  ]
 }
