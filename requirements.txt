@@ -1,0 +1,2 @@
+# No external dependencies required - using only Python standard library
+# The script uses built-in modules: json, random, smtplib, datetime, email, os, logging

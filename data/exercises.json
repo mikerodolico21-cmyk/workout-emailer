@@ -1,0 +1,492 @@
+{
+  "back": {
+    "dumbbell": [
+      {
+        "name": "Dumbbell Rows",
+        "description": "Bend knees slightly, hinge at hips with flat back. Pull dumbbells to chest, squeezing shoulder blades together. Lower slowly."
+      },
+      {
+        "name": "Single Arm Dumbbell Rows",
+        "description": "Place one knee and hand on bench, other foot on floor. Pull dumbbell to hip, keeping back straight. Alternate sides."
+      },
+      {
+        "name": "Dumbbell Pullovers",
+        "description": "Lie on back, hold dumbbell with both hands over chest. Lower behind head while keeping arms slightly bent. Return to start."
+      },
+      {
+        "name": "Reverse Grip Dumbbell Rows",
+        "description": "Hold dumbbells with palms facing forward. Pull to chest, focusing on lower lats. Keep elbows close to body."
+      },
+      {
+        "name": "Dumbbell Deadlifts",
+        "description": "Stand with dumbbells at thighs. Hinge at hips, lower weights toward floor with straight legs. Return to standing by squeezing glutes."
+      },
+      {
+        "name": "Bent Over Dumbbell Rows",
+        "description": "Bend at 45-degree angle with flat back. Pull dumbbells to lower chest. Keep core engaged throughout movement."
+      },
+      {
+        "name": "Dumbbell Shrugs",
+        "description": "Stand straight, hold dumbbells at sides. Shrug shoulders toward ears, hold briefly, then lower. Avoid rolling shoulders."
+      },
+      {
+        "name": "Dumbbell Reverse Flys",
+        "description": "Bend at hips with flat back, slight knee bend. Raise dumbbells out to sides at shoulder height. Squeeze shoulder blades."
+      }
+    ],
+    "bodyweight": [
+      {
+        "name": "Pull-ups",
+        "description": "Hang from bar with overhand grip. Pull body up until chin clears bar. Lower slowly with control."
+      },
+      {
+        "name": "Chin-ups",
+        "description": "Hang from bar with underhand grip. Pull body up, focusing on biceps and back. Lower under control."
+      },
+      {
+        "name": "Bodyweight Rows",
+        "description": "Lie under sturdy table or bar. Pull chest toward hands, keeping body straight. Lower slowly."
+      },
+      {
+        "name": "Supermans",
+        "description": "Lie face down, arms extended forward. Lift chest, arms, and legs off floor. Hold briefly, lower slowly."
+      },
+      {
+        "name": "Prone Cobras",
+        "description": "Lie face down, hands behind head. Lift chest off floor while squeezing shoulder blades. Hold and lower."
+      },
+      {
+        "name": "Reverse Snow Angels",
+        "description": "Lie face down, arms at sides. Sweep arms up and back like making snow angels. Keep thumbs pointing up."
+      },
+      {
+        "name": "Wall Angels",
+        "description": "Stand with back against wall, arms bent 90 degrees. Slide arms up and down wall while keeping contact."
+      },
+      {
+        "name": "Scapular Pull-ups",
+        "description": "Hang from bar. Pull shoulder blades down and together without bending arms. Hold briefly, relax."
+      }
+    ]
+  },
+  "biceps": {
+    "dumbbell": [
+      {
+        "name": "Dumbbell Curls",
+        "description": "Stand with palms facing forward. Curl dumbbells toward shoulders, keeping elbows stationary. Lower slowly."
+      },
+      {
+        "name": "Hammer Curls",
+        "description": "Hold dumbbells with palms facing each other. Curl up toward shoulders. Keep wrists straight throughout."
+      },
+      {
+        "name": "Concentration Curls",
+        "description": "Sit, rest elbow on inner thigh. Curl dumbbell while isolating bicep. Focus on muscle contraction."
+      },
+      {
+        "name": "Incline Dumbbell Curls",
+        "description": "Sit on incline bench, let arms hang straight. Curl dumbbells with full range of motion. Control negative."
+      },
+      {
+        "name": "Preacher Curls",
+        "description": "Rest upper arms on preacher bench. Curl dumbbells while keeping arms stationary. Focus on bicep peak."
+      },
+      {
+        "name": "Zottman Curls",
+        "description": "Curl with palms up, rotate to palms down at top, lower slowly. Reverse grip on way up."
+      },
+      {
+        "name": "Reverse Curls",
+        "description": "Hold dumbbells with palms facing down. Curl up, focusing on forearms and brachialis. Keep elbows tight."
+      },
+      {
+        "name": "Cross Body Curls",
+        "description": "Curl dumbbell across body toward opposite shoulder. Rotate wrist as you curl. Alternate sides."
+      }
+    ],
+    "bodyweight": [
+      {
+        "name": "Chin-ups",
+        "description": "Hang from bar with underhand grip. Pull body up until chin clears bar. Focus on bicep contraction."
+      },
+      {
+        "name": "Isometric Chin-up Holds",
+        "description": "Pull chin over bar and hold position for time. Lower slowly. Build static strength and endurance."
+      },
+      {
+        "name": "Towel Curls",
+        "description": "Loop towel over sturdy object. Grip towel ends and curl body toward hands. Adjust difficulty with grip."
+      },
+      {
+        "name": "Doorway Curls",
+        "description": "Stand in doorway, grip sides at shoulder height. Lean back and pull body forward using biceps."
+      },
+      {
+        "name": "Resistance Band Curls",
+        "description": "Stand on resistance band. Grip handles and curl up like dumbbell curls. Increase tension by standing wider."
+      },
+      {
+        "name": "Bodyweight Bicep Curls",
+        "description": "Sit on floor, knees bent, hands on floor behind you. Pull body toward hands using biceps."
+      },
+      {
+        "name": "Close Grip Pull-ups",
+        "description": "Hang from bar with narrow grip. Pull body up, focusing on biceps. Keep hands close together."
+      },
+      {
+        "name": "Negative Chin-ups",
+        "description": "Jump to chin-up position, lower slowly taking 3-5 seconds. Build eccentric strength for full chin-ups."
+      }
+    ]
+  },
+  "triceps": {
+    "dumbbell": [
+      {
+        "name": "Dumbbell Overhead Extensions",
+        "description": "Hold dumbbell with both hands overhead. Lower behind head by bending elbows. Extend arms back up."
+      },
+      {
+        "name": "Dumbbell Skull Crushers",
+        "description": "Lie on back, hold dumbbells over chest. Lower to sides of head by bending elbows. Extend back up."
+      },
+      {
+        "name": "Dumbbell Kickbacks",
+        "description": "Bend forward, upper arm parallel to floor. Extend arm back by straightening elbow. Squeeze tricep."
+      },
+      {
+        "name": "Close Grip Dumbbell Press",
+        "description": "Lie on back, hold dumbbells together over chest. Lower to chest, press up keeping dumbbells close."
+      },
+      {
+        "name": "Dumbbell Floor Press",
+        "description": "Lie on floor, hold dumbbells over chest. Lower until triceps touch floor, press back up."
+      },
+      {
+        "name": "Dumbbell Tricep Extensions",
+        "description": "Lie on back, hold dumbbell with both hands. Extend arms vertically, lower behind head, repeat."
+      },
+      {
+        "name": "Single Arm Overhead Extensions",
+        "description": "Hold dumbbell in one hand overhead. Lower behind head, extend back up. Support elbow with other hand if needed."
+      },
+      {
+        "name": "Dumbbell Tricep Pullovers",
+        "description": "Lie on back, hold dumbbell with both hands. Lower behind head keeping arms straight. Pull back over chest."
+      }
+    ],
+    "bodyweight": [
+      {
+        "name": "Diamond Push-ups",
+        "description": "Place hands close together forming diamond shape with thumbs and index fingers. Lower chest to hands."
+      },
+      {
+        "name": "Dips",
+        "description": "Use parallel bars or sturdy chairs. Lower body by bending elbows until 90-degree angle. Press back up."
+      },
+      {
+        "name": "Tricep Dips on Bench",
+        "description": "Sit on bench edge, hands next to hips. Slide off bench, lower body by bending elbows. Press back up."
+      },
+      {
+        "name": "Close Grip Push-ups",
+        "description": "Place hands closer than shoulder-width. Lower chest to hands, keeping elbows close to body."
+      },
+      {
+        "name": "Bodyweight Tricep Extensions",
+        "description": "Kneel on floor, place forearms on ground. Push body forward using triceps, then back to start."
+      },
+      {
+        "name": "Wall Dips",
+        "description": "Stand facing wall, hands on wall at shoulder height. Lean forward and bend elbows. Push back to start."
+      },
+      {
+        "name": "Floor Tricep Extensions",
+        "description": "Lie on floor, place hands near shoulders. Push body up by extending arms. Lower slowly."
+      },
+      {
+        "name": "Decline Diamond Push-ups",
+        "description": "Place feet on elevated surface. Perform diamond push-ups for increased difficulty."
+      }
+    ]
+  },
+  "chest": {
+    "dumbbell": [
+      {
+        "name": "Dumbbell Bench Press",
+        "description": "Lie on bench, hold dumbbells over chest. Lower to chest level, press back up. Keep controlled motion."
+      },
+      {
+        "name": "Dumbbell Flys",
+        "description": "Lie on bench, arms extended with slight bend. Lower arms out to sides, raise back up like hugging tree."
+      },
+      {
+        "name": "Incline Dumbbell Press",
+        "description": "Lie on incline bench (30-45 degrees). Press dumbbells upward focusing on upper chest. Control negative."
+      },
+      {
+        "name": "Decline Dumbbell Press",
+        "description": "Lie on decline bench. Press dumbbells upward focusing on lower chest. Keep stable throughout."
+      },
+      {
+        "name": "Dumbbell Pullovers",
+        "description": "Lie across bench, hold dumbbell with both hands. Lower behind head, pull back over chest. Stretch chest."
+      },
+      {
+        "name": "Single Arm Dumbbell Press",
+        "description": "Lie on flat bench, press one dumbbell at a time. Engage core for stability. Alternate sides."
+      },
+      {
+        "name": "Dumbbell Squeeze Press",
+        "description": "Lie on bench, press dumbbells together. Squeeze throughout movement to engage inner chest."
+      },
+      {
+        "name": "Flat Dumbbell Press",
+        "description": "Lie on flat bench, press dumbbells from chest to overhead. Keep elbows at 45-degree angle."
+      }
+    ],
+    "bodyweight": [
+      {
+        "name": "Push-ups",
+        "description": "Hands shoulder-width apart. Lower chest to floor, keeping body straight. Push back to start position."
+      },
+      {
+        "name": "Wide Push-ups",
+        "description": "Place hands wider than shoulders. Lower chest, focus on outer chest. Keep elbows flared slightly."
+      },
+      {
+        "name": "Close Push-ups",
+        "description": "Place hands close together. Lower chest to hands, keeping elbows close to body. Targets inner chest."
+      },
+      {
+        "name": "Decline Push-ups",
+        "description": "Place feet on elevated surface. Lower chest to floor, emphasizing upper chest. Increase height for difficulty."
+      },
+      {
+        "name": "Incline Push-ups",
+        "description": "Place hands on elevated surface. Lower chest to hands. Easier variation, good for beginners."
+      },
+      {
+        "name": "Diamond Push-ups",
+        "description": "Form diamond with hands. Lower chest to hands. Targets triceps and inner chest."
+      },
+      {
+        "name": "Plyometric Push-ups",
+        "description": "Push up explosively so hands leave floor. Clap hands if possible. Land softly."
+      },
+      {
+        "name": "Push-up Holds",
+        "description": "Hold push-up position at various points. Build isometric strength and stability."
+      }
+    ]
+  },
+  "shoulders": {
+    "dumbbell": [
+      {
+        "name": "Dumbbell Shoulder Press",
+        "description": "Sit or stand, hold dumbbells at shoulder height. Press overhead until arms fully extended. Lower slowly."
+      },
+      {
+        "name": "Lateral Raises",
+        "description": "Stand with dumbbells at sides. Raise arms out to shoulder height, leading with elbows. Lower slowly."
+      },
+      {
+        "name": "Front Raises",
+        "description": "Stand with dumbbells at thighs. Raise arms straight forward to shoulder height. Lower with control."
+      },
+      {
+        "name": "Reverse Flys",
+        "description": "Bend at hips with flat back. Raise dumbbells out to sides at shoulder height. Squeeze shoulder blades."
+      },
+      {
+        "name": "Upright Rows",
+        "description": "Hold dumbbells in front of body. Pull upward along torso, leading with elbows. Stop at chest height."
+      },
+      {
+        "name": "Arnold Press",
+        "description": "Start with palms facing chest. Press overhead while rotating palms forward. Reverse on way down."
+      },
+      {
+        "name": "Dumbbell Shrugs",
+        "description": "Hold dumbbells at sides. Shrug shoulders toward ears, hold briefly. Avoid rolling shoulders."
+      },
+      {
+        "name": "Face Pulls with Dumbbell",
+        "description": "Lie on incline bench, hold dumbbell with both hands. Pull toward face, leading with elbows."
+      }
+    ],
+    "bodyweight": [
+      {
+        "name": "Pike Push-ups",
+        "description": "Start in downward dog position. Lower head toward floor, press back up. Targets shoulders."
+      },
+      {
+        "name": "Handstand Push-ups",
+        "description": "Kick up into handstand against wall. Lower head toward floor, press back up. Advanced shoulder exercise."
+      },
+      {
+        "name": "Wall Walks",
+        "description": "Start in push-up position facing wall. Walk feet up wall into handstand. Walk back down carefully."
+      },
+      {
+        "name": "Shoulder Taps",
+        "description": "In push-up position, tap opposite shoulder while keeping hips stable. Alternate sides."
+      },
+      {
+        "name": "Plank Shoulder Taps",
+        "description": "In plank position, tap opposite shoulder. Keep core engaged and hips from rocking."
+      },
+      {
+        "name": "Bodyweight Shoulder Press",
+        "description": "Sit with knees bent, hands on floor behind you. Press body upward using shoulders."
+      },
+      {
+        "name": "Incline Push-ups",
+        "description": "Place hands on elevated surface. Lower chest to hands. Emphasizes shoulders more than chest."
+      },
+      {
+        "name": "Bear Crawls",
+        "description": "On all fours, crawl forward keeping back flat and knees off floor. Engages shoulders and core."
+      }
+    ]
+  },
+  "abs": {
+    "dumbbell": [
+      {
+        "name": "Dumbbell Side Bends",
+        "description": "Stand holding dumbbell in one hand. Bend sideways at waist, lowering dumbbell. Return to upright position."
+      },
+      {
+        "name": "Russian Twists with Dumbbell",
+        "description": "Sit on floor, lean back slightly. Hold dumbbell, twist torso side to side. Keep feet off floor."
+      },
+      {
+        "name": "Dumbbell Crunches",
+        "description": "Lie on back, hold dumbbell on chest. Perform crunch while holding weight. Exhale at top."
+      },
+      {
+        "name": "Dumbbell Leg Raises",
+        "description": "Lie on back, hold dumbbell between feet. Raise legs to 90 degrees, lower slowly. Keep lower back pressed down."
+      },
+      {
+        "name": "Dumbbell Wood Chops",
+        "description": "Stand with dumbbell. Rotate torso diagonally upward across body. Alternate sides. Keep arms straight."
+      },
+      {
+        "name": "Dumbbell Plank Rows",
+        "description": "In plank position with dumbbells. Row one dumbbell while maintaining plank. Alternate sides."
+      },
+      {
+        "name": "Dumbbell Sit-ups",
+        "description": "Lie on back, hold dumbbell on chest. Perform full sit-up while holding weight. Control movement."
+      },
+      {
+        "name": "Dumbbell Bicycle Crunches",
+        "description": "Lie on back, hold light dumbbell. Perform bicycle crunches while holding weight for resistance."
+      }
+    ],
+    "bodyweight": [
+      {
+        "name": "Plank",
+        "description": "Hold push-up position on forearms. Keep body straight from head to heels. Engage core throughout."
+      },
+      {
+        "name": "Crunches",
+        "description": "Lie on back, knees bent. Lift shoulders off floor using abs. Lower slowly. Exhale at top."
+      },
+      {
+        "name": "Leg Raises",
+        "description": "Lie on back, hands under hips. Raise legs to 90 degrees, lower slowly. Keep lower back pressed down."
+      },
+      {
+        "name": "Russian Twists",
+        "description": "Sit on floor, lean back slightly. Twist torso side to side. Keep feet off floor for difficulty."
+      },
+      {
+        "name": "Mountain Climbers",
+        "description": "In push-up position, alternate bringing knees to chest quickly. Keep hips down and core tight."
+      },
+      {
+        "name": "Bicycle Crunches",
+        "description": "Lie on back, bring opposite elbow to knee. Alternate sides in pedaling motion. Keep lower back down."
+      },
+      {
+        "name": "Side Plank",
+        "description": "Support body on one forearm and side of foot. Keep body straight. Hold on both sides."
+      },
+      {
+        "name": "Hollow Body Hold",
+        "description": "Lie on back, lift shoulders and legs off floor. Keep lower back pressed down. Hold position."
+      }
+    ]
+  },
+  "legs": {
+    "dumbbell": [
+      {
+        "name": "Dumbbell Squats",
+        "description": "Hold dumbbells at shoulders. Squat until thighs parallel to floor. Keep chest up and back straight."
+      },
+      {
+        "name": "Dumbbell Lunges",
+        "description": "Hold dumbbells at sides. Step forward, lower back knee toward floor. Push back to start. Alternate legs."
+      },
+      {
+        "name": "Dumbbell Deadlifts",
+        "description": "Stand with dumbbells at thighs. Hinge at hips, lower weights toward floor. Return to standing."
+      },
+      {
+        "name": "Goblet Squats",
+        "description": "Hold one dumbbell vertically at chest. Squat deep, keeping chest up. Use elbows to push knees out."
+      },
+      {
+        "name": "Bulgarian Split Squats",
+        "description": "Place rear foot on bench. Hold dumbbells, lower into lunge. Front thigh parallel to floor."
+      },
+      {
+        "name": "Dumbbell Step-ups",
+        "description": "Hold dumbbells, step onto bench with one foot. Step up fully, step down. Alternate legs."
+      },
+      {
+        "name": "Dumbbell Calf Raises",
+        "description": "Hold dumbbells at sides. Rise onto toes, hold briefly. Lower heels below step if possible."
+      },
+      {
+        "name": "Dumbbell Romanian Deadlifts",
+        "description": "Hold dumbbells in front. Hinge at hips with slight knee bend. Lower weights to mid-shin, return."
+      }
+    ],
+    "bodyweight": [
+      {
+        "name": "Bodyweight Squats",
+        "description": "Stand with feet shoulder-width. Squat until thighs parallel to floor. Keep chest up and back straight."
+      },
+      {
+        "name": "Lunges",
+        "description": "Step forward, lower back knee toward floor. Front knee at 90 degrees. Push back to start. Alternate legs."
+      },
+      {
+        "name": "Jump Squats",
+        "description": "Perform squat, then jump explosively upward. Land softly and immediately go into next squat."
+      },
+      {
+        "name": "Pistol Squats",
+        "description": "Stand on one leg, extend other forward. Squat deeply on standing leg. Use support for balance."
+      },
+      {
+        "name": "Wall Sit",
+        "description": "Lean against wall, slide down until thighs parallel to floor. Hold position with back against wall."
+      },
+      {
+        "name": "Calf Raises",
+        "description": "Stand on edge of step. Rise onto toes, hold briefly. Lower heels below step for full range."
+      },
+      {
+        "name": "Glute Bridges",
+        "description": "Lie on back, knees bent. Lift hips toward ceiling, squeezing glutes. Lower slowly."
+      },
+      {
+        "name": "Single Leg Squats",
+        "description": "Stand on one leg, squat as deep as possible. Use support for balance if needed."
+      }
+    ]
+  }
+}
