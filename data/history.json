@@ -53,6 +53,12 @@
       "muscle_group": "legs",
       "dumbbell_exercise": "Dumbbell Deadlifts",
       "bodyweight_exercise": "Pistol Squats"
+    },
+    {
+      "date": "2026-01-18T22:33:17.191089",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Dumbbell Lunges",
+      "bodyweight_exercise": "Bodyweight Squats"
     }
   ]
 }
