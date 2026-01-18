@@ -117,41 +117,67 @@ class WorkoutEmailer:
         bodyweight_name = bodyweight_exercise["name"] if isinstance(bodyweight_exercise, dict) else bodyweight_exercise
         bodyweight_desc = bodyweight_exercise["description"] if isinstance(bodyweight_exercise, dict) else ""
         
-        subject = f"💪 Today's {muscle_group.title()} Workout"
+        subject = f"Today's {muscle_group.title()} Workout"
         
-        body = f"""
-╔══════════════════════════════════════════════════════════════╗
-║                        TODAY'S WORKOUT                        ║
-╚══════════════════════════════════════════════════════════════╝
-
-🎯 {muscle_group.title()} Day • 3 Sets × 10 Reps
-
-┌─────────────────────────────────────────────────────────────┐
-│  1️⃣  DUMBBELL EXERCISE                                      │
-├─────────────────────────────────────────────────────────────┤
-│  🏋️  {dumbbell_name}                                        │
-│                                                             │
-│  📝 {dumbbell_desc}                                         │
-└─────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────┐
-│  2️⃣  BODYWEIGHT EXERCISE                                    │
-├─────────────────────────────────────────────────────────────┤
-│  🤸  {bodyweight_name}                                       │
-│                                                             │
-│  📝 {bodyweight_desc}                                        │
-└─────────────────────────────────────────────────────────────┘
-
-⏱️  Rest: 60–90 seconds between sets
-💧  Stay hydrated and maintain good form!
-🔥  You've got this! Let's crush today's workout!
-
-═══════════════════════════════════════════════════════════════
+        # HTML email content for proper formatting
+        body_html = f"""
+<html>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 0 auto; padding: 20px;">
+    
+    <h1 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px;">{muscle_group.title()} Workout</h1>
+    <p style="font-size: 18px; color: #7f8c8d; margin: 20px 0;"><strong>3 Sets × 10 Reps</strong></p>
+    
+    <hr style="border: none; border-top: 1px solid #ecf0f1; margin: 30px 0;">
+    
+    <h2 style="color: #3498db;">1️⃣ Dumbbell Exercise</h2>
+    <h3 style="color: #2c3e50; margin: 10px 0;">{dumbbell_name}</h3>
+    <p style="margin: 15px 0;">{dumbbell_desc}</p>
+    
+    <hr style="border: none; border-top: 1px solid #ecf0f1; margin: 30px 0;">
+    
+    <h2 style="color: #3498db;">2️⃣ Bodyweight Exercise</h2>
+    <h3 style="color: #2c3e50; margin: 10px 0;">{bodyweight_name}</h3>
+    <p style="margin: 15px 0;">{bodyweight_desc}</p>
+    
+    <hr style="border: none; border-top: 1px solid #ecf0f1; margin: 30px 0;">
+    
+    <p style="font-size: 16px; margin: 20px 0;"><strong>Rest:</strong> 60–90 seconds between sets</p>
+    
+    <p style="font-style: italic; color: #7f8c8d; margin: 30px 0;">Stay hydrated and maintain good form. You've got this!</p>
+    
+</body>
+</html>
 """
         
-        return subject, body
+        # Plain text version for fallback
+        body_text = f"""
+{muscle_group.title()} Workout
+3 Sets × 10 Reps
+
+---
+
+1️⃣ Dumbbell Exercise
+{dumbbell_name}
+
+{dumbbell_desc}
+
+---
+
+2️⃣ Bodyweight Exercise  
+{bodyweight_name}
+
+{bodyweight_desc}
+
+---
+
+Rest: 60–90 seconds between sets
+
+Stay hydrated and maintain good form. You've got this!
+"""
+        
+        return subject, body_html, body_text
     
-    def send_email(self, subject, body):
+    def send_email(self, subject, body_html, body_text):
         """Send email using SMTP"""
         smtp_server = os.getenv("SMTP_SERVER")
         smtp_port = int(os.getenv("SMTP_PORT", "587"))
@@ -162,12 +188,14 @@ class WorkoutEmailer:
         if not all([smtp_server, sender_email, sender_password, recipient_email]):
             raise ValueError("Missing required email configuration environment variables")
         
-        message = MIMEMultipart()
+        message = MIMEMultipart("alternative")
         message["From"] = sender_email
         message["To"] = recipient_email
         message["Subject"] = subject
         
-        message.attach(MIMEText(body, "plain"))
+        # Attach both plain text and HTML versions
+        message.attach(MIMEText(body_text, "plain"))
+        message.attach(MIMEText(body_html, "html"))
         
         try:
             with smtplib.SMTP(smtp_server, smtp_port) as server:
@@ -215,10 +243,10 @@ class WorkoutEmailer:
             logger.info(f"Selected exercises: {dumbbell_name}, {bodyweight_name}")
             
             # Create email content
-            subject, body = self.create_email_content(muscle_group, dumbbell_exercise, bodyweight_exercise)
+            subject, body_html, body_text = self.create_email_content(muscle_group, dumbbell_exercise, bodyweight_exercise)
             
             # Send email
-            self.send_email(subject, body)
+            self.send_email(subject, body_html, body_text)
             
             # Save workout to history
             history = self.save_workout(history, muscle_group, dumbbell_exercise, bodyweight_exercise)
