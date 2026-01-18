@@ -71,6 +71,12 @@
       "muscle_group": "legs",
       "dumbbell_exercise": "Dumbbell Lunges",
       "bodyweight_exercise": "Single Leg Squats"
+    },
+    {
+      "date": "2026-01-18T22:42:55.638795",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Dumbbell Deadlifts",
+      "bodyweight_exercise": "Wall Sit"
     }
   ]
 }
