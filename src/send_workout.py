@@ -13,8 +13,8 @@ logger = logging.getLogger(__name__)
 
 class WorkoutEmailer:
     def __init__(self):
-        self.exercises_file = "data/exercises.json"
-        self.history_file = "data/history.json"
+        self.exercises_file = "../data/exercises.json"
+        self.history_file = "../data/history.json"
         self.muscle_schedule = {
             0: "back",      # Monday
             1: "biceps",    # Tuesday
