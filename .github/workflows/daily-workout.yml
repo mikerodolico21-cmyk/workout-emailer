@@ -40,6 +40,7 @@ jobs:
         SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
         SENDER_PASSWORD: ${{ secrets.SENDER_PASSWORD }}
         RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        RECIPIENT_EMAIL_2: ${{ secrets.RECIPIENT_EMAIL_2 }}
       run: |
         cd src
         python send_workout.py
