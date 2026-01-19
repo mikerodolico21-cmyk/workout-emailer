@@ -77,6 +77,12 @@
       "muscle_group": "legs",
       "dumbbell_exercise": "Dumbbell Deadlifts",
       "bodyweight_exercise": "Wall Sit"
+    },
+    {
+      "date": "2026-01-19T13:42:10.518819",
+      "muscle_group": "back",
+      "dumbbell_exercise": "Dumbbell Reverse Flys",
+      "bodyweight_exercise": "Prone Cobras"
     }
   ]
 }
