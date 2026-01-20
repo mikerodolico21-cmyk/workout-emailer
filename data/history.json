@@ -83,6 +83,12 @@
       "muscle_group": "back",
       "dumbbell_exercise": "Dumbbell Reverse Flys",
       "bodyweight_exercise": "Prone Cobras"
+    },
+    {
+      "date": "2026-01-20T13:43:06.762746",
+      "muscle_group": "biceps",
+      "dumbbell_exercise": "Incline Dumbbell Curls",
+      "bodyweight_exercise": "Chin-ups"
     }
   ]
 }
