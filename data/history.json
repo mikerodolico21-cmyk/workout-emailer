@@ -89,6 +89,12 @@
       "muscle_group": "biceps",
       "dumbbell_exercise": "Incline Dumbbell Curls",
       "bodyweight_exercise": "Chin-ups"
+    },
+    {
+      "date": "2026-01-21T13:41:57.244971",
+      "muscle_group": "triceps",
+      "dumbbell_exercise": "Close Grip Dumbbell Press",
+      "bodyweight_exercise": "Close Grip Push-ups"
     }
   ]
 }
