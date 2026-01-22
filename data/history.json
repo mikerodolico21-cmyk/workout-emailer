@@ -95,6 +95,12 @@
       "muscle_group": "triceps",
       "dumbbell_exercise": "Close Grip Dumbbell Press",
       "bodyweight_exercise": "Close Grip Push-ups"
+    },
+    {
+      "date": "2026-01-22T13:42:55.799793",
+      "muscle_group": "chest",
+      "dumbbell_exercise": "Dumbbell Squeeze Press",
+      "bodyweight_exercise": "Wide Push-ups"
     }
   ]
 }
