@@ -107,6 +107,12 @@
       "muscle_group": "shoulders",
       "dumbbell_exercise": "Face Pulls with Dumbbell",
       "bodyweight_exercise": "Handstand Push-ups"
+    },
+    {
+      "date": "2026-01-24T13:28:30.191054",
+      "muscle_group": "abs",
+      "dumbbell_exercise": "Russian Twists with Dumbbell",
+      "bodyweight_exercise": "Mountain Climbers"
     }
   ]
 }
