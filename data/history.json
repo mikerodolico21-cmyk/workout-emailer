@@ -113,6 +113,12 @@
       "muscle_group": "abs",
       "dumbbell_exercise": "Russian Twists with Dumbbell",
       "bodyweight_exercise": "Mountain Climbers"
+    },
+    {
+      "date": "2026-01-25T13:29:46.078681",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Dumbbell Deadlifts",
+      "bodyweight_exercise": "Bodyweight Squats"
     }
   ]
 }
