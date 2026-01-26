@@ -119,6 +119,12 @@
       "muscle_group": "legs",
       "dumbbell_exercise": "Dumbbell Deadlifts",
       "bodyweight_exercise": "Bodyweight Squats"
+    },
+    {
+      "date": "2026-01-26T13:41:12.911691",
+      "muscle_group": "back",
+      "dumbbell_exercise": "Dumbbell Rows",
+      "bodyweight_exercise": "Scapular Pull-ups"
     }
   ]
 }
