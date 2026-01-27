@@ -125,6 +125,12 @@
       "muscle_group": "back",
       "dumbbell_exercise": "Dumbbell Rows",
       "bodyweight_exercise": "Scapular Pull-ups"
+    },
+    {
+      "date": "2026-01-27T13:43:16.737618",
+      "muscle_group": "biceps",
+      "dumbbell_exercise": "Reverse Curls",
+      "bodyweight_exercise": "Towel Curls"
     }
   ]
 }
