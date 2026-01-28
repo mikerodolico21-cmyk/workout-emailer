@@ -131,6 +131,12 @@
       "muscle_group": "biceps",
       "dumbbell_exercise": "Reverse Curls",
       "bodyweight_exercise": "Towel Curls"
+    },
+    {
+      "date": "2026-01-28T13:44:26.580658",
+      "muscle_group": "triceps",
+      "dumbbell_exercise": "Dumbbell Overhead Extensions",
+      "bodyweight_exercise": "Bodyweight Tricep Extensions"
     }
   ]
 }
