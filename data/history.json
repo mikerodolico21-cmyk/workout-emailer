@@ -137,6 +137,12 @@
       "muscle_group": "triceps",
       "dumbbell_exercise": "Dumbbell Overhead Extensions",
       "bodyweight_exercise": "Bodyweight Tricep Extensions"
+    },
+    {
+      "date": "2026-01-29T13:57:19.622198",
+      "muscle_group": "chest",
+      "dumbbell_exercise": "Dumbbell Flys",
+      "bodyweight_exercise": "Decline Push-ups"
     }
   ]
 }
