@@ -149,6 +149,12 @@
       "muscle_group": "shoulders",
       "dumbbell_exercise": "Arnold Press",
       "bodyweight_exercise": "Bear Crawls"
+    },
+    {
+      "date": "2026-01-31T13:38:29.735612",
+      "muscle_group": "abs",
+      "dumbbell_exercise": "Dumbbell Plank Rows",
+      "bodyweight_exercise": "Crunches"
     }
   ]
 }
