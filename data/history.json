@@ -155,6 +155,12 @@
       "muscle_group": "abs",
       "dumbbell_exercise": "Dumbbell Plank Rows",
       "bodyweight_exercise": "Crunches"
+    },
+    {
+      "date": "2026-02-01T13:39:58.847260",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Dumbbell Romanian Deadlifts",
+      "bodyweight_exercise": "Lunges"
     }
   ]
 }
