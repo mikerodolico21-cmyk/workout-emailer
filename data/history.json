@@ -161,6 +161,12 @@
       "muscle_group": "legs",
       "dumbbell_exercise": "Dumbbell Romanian Deadlifts",
       "bodyweight_exercise": "Lunges"
+    },
+    {
+      "date": "2026-02-02T13:59:40.066162",
+      "muscle_group": "back",
+      "dumbbell_exercise": "Dumbbell Shrugs",
+      "bodyweight_exercise": "Wall Angels"
     }
   ]
 }
