@@ -167,6 +167,12 @@
       "muscle_group": "back",
       "dumbbell_exercise": "Dumbbell Shrugs",
       "bodyweight_exercise": "Wall Angels"
+    },
+    {
+      "date": "2026-02-03T14:01:44.430578",
+      "muscle_group": "biceps",
+      "dumbbell_exercise": "Preacher Curls",
+      "bodyweight_exercise": "Bodyweight Bicep Curls"
     }
   ]
 }
