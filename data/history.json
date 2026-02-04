@@ -173,6 +173,12 @@
       "muscle_group": "biceps",
       "dumbbell_exercise": "Preacher Curls",
       "bodyweight_exercise": "Bodyweight Bicep Curls"
+    },
+    {
+      "date": "2026-02-04T14:00:50.444224",
+      "muscle_group": "triceps",
+      "dumbbell_exercise": "Dumbbell Kickbacks",
+      "bodyweight_exercise": "Tricep Dips on Bench"
     }
   ]
 }
