@@ -179,6 +179,12 @@
       "muscle_group": "triceps",
       "dumbbell_exercise": "Dumbbell Kickbacks",
       "bodyweight_exercise": "Tricep Dips on Bench"
+    },
+    {
+      "date": "2026-02-05T14:03:29.526959",
+      "muscle_group": "chest",
+      "dumbbell_exercise": "Flat Dumbbell Press",
+      "bodyweight_exercise": "Diamond Push-ups"
     }
   ]
 }
