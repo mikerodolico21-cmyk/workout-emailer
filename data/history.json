@@ -185,6 +185,12 @@
       "muscle_group": "chest",
       "dumbbell_exercise": "Flat Dumbbell Press",
       "bodyweight_exercise": "Diamond Push-ups"
+    },
+    {
+      "date": "2026-02-06T13:59:21.000496",
+      "muscle_group": "shoulders",
+      "dumbbell_exercise": "Reverse Flys",
+      "bodyweight_exercise": "Handstand Push-ups"
     }
   ]
 }
