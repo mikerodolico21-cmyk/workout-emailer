@@ -191,6 +191,12 @@
       "muscle_group": "shoulders",
       "dumbbell_exercise": "Reverse Flys",
       "bodyweight_exercise": "Handstand Push-ups"
+    },
+    {
+      "date": "2026-02-07T13:40:19.219881",
+      "muscle_group": "abs",
+      "dumbbell_exercise": "Russian Twists with Dumbbell",
+      "bodyweight_exercise": "Side Plank"
     }
   ]
 }
