@@ -197,6 +197,12 @@
       "muscle_group": "abs",
       "dumbbell_exercise": "Russian Twists with Dumbbell",
       "bodyweight_exercise": "Side Plank"
+    },
+    {
+      "date": "2026-02-08T13:41:52.634005",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Goblet Squats",
+      "bodyweight_exercise": "Glute Bridges"
     }
   ]
 }
