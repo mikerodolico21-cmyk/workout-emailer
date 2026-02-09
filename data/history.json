@@ -203,6 +203,12 @@
       "muscle_group": "legs",
       "dumbbell_exercise": "Goblet Squats",
       "bodyweight_exercise": "Glute Bridges"
+    },
+    {
+      "date": "2026-02-09T14:13:27.046889",
+      "muscle_group": "back",
+      "dumbbell_exercise": "Dumbbell Reverse Flys",
+      "bodyweight_exercise": "Scapular Pull-ups"
     }
   ]
 }
