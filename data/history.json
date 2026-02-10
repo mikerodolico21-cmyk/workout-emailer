@@ -209,6 +209,12 @@
       "muscle_group": "back",
       "dumbbell_exercise": "Dumbbell Reverse Flys",
       "bodyweight_exercise": "Scapular Pull-ups"
+    },
+    {
+      "date": "2026-02-10T14:19:57.857591",
+      "muscle_group": "biceps",
+      "dumbbell_exercise": "Incline Dumbbell Curls",
+      "bodyweight_exercise": "Close Grip Pull-ups"
     }
   ]
 }
