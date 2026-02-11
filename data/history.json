@@ -215,6 +215,12 @@
       "muscle_group": "biceps",
       "dumbbell_exercise": "Incline Dumbbell Curls",
       "bodyweight_exercise": "Close Grip Pull-ups"
+    },
+    {
+      "date": "2026-02-11T14:14:24.975138",
+      "muscle_group": "triceps",
+      "dumbbell_exercise": "Single Arm Overhead Extensions",
+      "bodyweight_exercise": "Wall Dips"
     }
   ]
 }
