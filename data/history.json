@@ -221,6 +221,12 @@
       "muscle_group": "triceps",
       "dumbbell_exercise": "Single Arm Overhead Extensions",
       "bodyweight_exercise": "Wall Dips"
+    },
+    {
+      "date": "2026-02-12T14:09:12.227453",
+      "muscle_group": "chest",
+      "dumbbell_exercise": "Decline Dumbbell Press",
+      "bodyweight_exercise": "Wide Push-ups"
     }
   ]
 }
