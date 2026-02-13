@@ -227,6 +227,12 @@
       "muscle_group": "chest",
       "dumbbell_exercise": "Decline Dumbbell Press",
       "bodyweight_exercise": "Wide Push-ups"
+    },
+    {
+      "date": "2026-02-13T13:59:28.560412",
+      "muscle_group": "shoulders",
+      "dumbbell_exercise": "Front Raises",
+      "bodyweight_exercise": "Incline Push-ups"
     }
   ]
 }
