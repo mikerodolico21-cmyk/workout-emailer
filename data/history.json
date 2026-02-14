@@ -233,6 +233,12 @@
       "muscle_group": "shoulders",
       "dumbbell_exercise": "Front Raises",
       "bodyweight_exercise": "Incline Push-ups"
+    },
+    {
+      "date": "2026-02-14T13:41:18.635682",
+      "muscle_group": "abs",
+      "dumbbell_exercise": "Dumbbell Plank Rows",
+      "bodyweight_exercise": "Bicycle Crunches"
     }
   ]
 }
