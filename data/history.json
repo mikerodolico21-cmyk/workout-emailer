@@ -239,6 +239,12 @@
       "muscle_group": "abs",
       "dumbbell_exercise": "Dumbbell Plank Rows",
       "bodyweight_exercise": "Bicycle Crunches"
+    },
+    {
+      "date": "2026-02-15T13:41:54.480426",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Dumbbell Step-ups",
+      "bodyweight_exercise": "Lunges"
     }
   ]
 }
