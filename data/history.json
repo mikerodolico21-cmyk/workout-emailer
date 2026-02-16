@@ -245,6 +245,12 @@
       "muscle_group": "legs",
       "dumbbell_exercise": "Dumbbell Step-ups",
       "bodyweight_exercise": "Lunges"
+    },
+    {
+      "date": "2026-02-16T14:03:33.026409",
+      "muscle_group": "back",
+      "dumbbell_exercise": "Reverse Grip Dumbbell Rows",
+      "bodyweight_exercise": "Wall Angels"
     }
   ]
 }
