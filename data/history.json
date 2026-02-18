@@ -257,6 +257,12 @@
       "muscle_group": "biceps",
       "dumbbell_exercise": "Concentration Curls",
       "bodyweight_exercise": "Negative Chin-ups"
+    },
+    {
+      "date": "2026-02-18T14:05:42.714363",
+      "muscle_group": "triceps",
+      "dumbbell_exercise": "Close Grip Dumbbell Press",
+      "bodyweight_exercise": "Tricep Dips on Bench"
     }
   ]
 }
