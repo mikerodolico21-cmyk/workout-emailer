@@ -269,6 +269,12 @@
       "muscle_group": "chest",
       "dumbbell_exercise": "Flat Dumbbell Press",
       "bodyweight_exercise": "Close Push-ups"
+    },
+    {
+      "date": "2026-02-20T13:58:19.512553",
+      "muscle_group": "shoulders",
+      "dumbbell_exercise": "Upright Rows",
+      "bodyweight_exercise": "Handstand Push-ups"
     }
   ]
 }
