@@ -275,6 +275,12 @@
       "muscle_group": "shoulders",
       "dumbbell_exercise": "Upright Rows",
       "bodyweight_exercise": "Handstand Push-ups"
+    },
+    {
+      "date": "2026-02-21T13:39:25.112230",
+      "muscle_group": "abs",
+      "dumbbell_exercise": "Dumbbell Leg Raises",
+      "bodyweight_exercise": "Russian Twists"
     }
   ]
 }
