@@ -281,6 +281,12 @@
       "muscle_group": "abs",
       "dumbbell_exercise": "Dumbbell Leg Raises",
       "bodyweight_exercise": "Russian Twists"
+    },
+    {
+      "date": "2026-02-22T13:40:34.870572",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Dumbbell Lunges",
+      "bodyweight_exercise": "Jump Squats"
     }
   ]
 }
