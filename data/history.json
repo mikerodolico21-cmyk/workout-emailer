@@ -287,6 +287,12 @@
       "muscle_group": "legs",
       "dumbbell_exercise": "Dumbbell Lunges",
       "bodyweight_exercise": "Jump Squats"
+    },
+    {
+      "date": "2026-02-23T14:06:04.774077",
+      "muscle_group": "back",
+      "dumbbell_exercise": "Dumbbell Reverse Flys",
+      "bodyweight_exercise": "Pull-ups"
     }
   ]
 }
