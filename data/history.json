@@ -293,6 +293,12 @@
       "muscle_group": "back",
       "dumbbell_exercise": "Dumbbell Reverse Flys",
       "bodyweight_exercise": "Pull-ups"
+    },
+    {
+      "date": "2026-02-24T14:09:18.938038",
+      "muscle_group": "biceps",
+      "dumbbell_exercise": "Dumbbell Curls",
+      "bodyweight_exercise": "Chin-ups"
     }
   ]
 }
