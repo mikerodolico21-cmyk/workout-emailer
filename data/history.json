@@ -299,6 +299,12 @@
       "muscle_group": "biceps",
       "dumbbell_exercise": "Dumbbell Curls",
       "bodyweight_exercise": "Chin-ups"
+    },
+    {
+      "date": "2026-02-25T14:08:05.653663",
+      "muscle_group": "triceps",
+      "dumbbell_exercise": "Dumbbell Tricep Pullovers",
+      "bodyweight_exercise": "Wall Dips"
     }
   ]
 }
