@@ -305,6 +305,12 @@
       "muscle_group": "triceps",
       "dumbbell_exercise": "Dumbbell Tricep Pullovers",
       "bodyweight_exercise": "Wall Dips"
+    },
+    {
+      "date": "2026-02-26T14:07:50.754537",
+      "muscle_group": "chest",
+      "dumbbell_exercise": "Single Arm Dumbbell Press",
+      "bodyweight_exercise": "Plyometric Push-ups"
     }
   ]
 }
