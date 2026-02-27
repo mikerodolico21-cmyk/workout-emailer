@@ -311,6 +311,12 @@
       "muscle_group": "chest",
       "dumbbell_exercise": "Single Arm Dumbbell Press",
       "bodyweight_exercise": "Plyometric Push-ups"
+    },
+    {
+      "date": "2026-02-27T13:57:12.982510",
+      "muscle_group": "shoulders",
+      "dumbbell_exercise": "Arnold Press",
+      "bodyweight_exercise": "Wall Walks"
     }
   ]
 }
