@@ -317,6 +317,12 @@
       "muscle_group": "shoulders",
       "dumbbell_exercise": "Arnold Press",
       "bodyweight_exercise": "Wall Walks"
+    },
+    {
+      "date": "2026-02-28T13:33:45.678049",
+      "muscle_group": "abs",
+      "dumbbell_exercise": "Dumbbell Crunches",
+      "bodyweight_exercise": "Side Plank"
     }
   ]
 }
