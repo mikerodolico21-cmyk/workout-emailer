@@ -323,6 +323,12 @@
       "muscle_group": "abs",
       "dumbbell_exercise": "Dumbbell Crunches",
       "bodyweight_exercise": "Side Plank"
+    },
+    {
+      "date": "2026-03-01T13:36:27.535702",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Dumbbell Step-ups",
+      "bodyweight_exercise": "Jump Squats"
     }
   ]
 }
