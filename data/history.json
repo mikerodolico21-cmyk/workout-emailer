@@ -329,6 +329,12 @@
       "muscle_group": "legs",
       "dumbbell_exercise": "Dumbbell Step-ups",
       "bodyweight_exercise": "Jump Squats"
+    },
+    {
+      "date": "2026-03-02T13:57:56.858285",
+      "muscle_group": "back",
+      "dumbbell_exercise": "Reverse Grip Dumbbell Rows",
+      "bodyweight_exercise": "Supermans"
     }
   ]
 }
