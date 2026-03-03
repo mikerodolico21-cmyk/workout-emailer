@@ -335,6 +335,12 @@
       "muscle_group": "back",
       "dumbbell_exercise": "Reverse Grip Dumbbell Rows",
       "bodyweight_exercise": "Supermans"
+    },
+    {
+      "date": "2026-03-03T13:57:14.006108",
+      "muscle_group": "biceps",
+      "dumbbell_exercise": "Concentration Curls",
+      "bodyweight_exercise": "Doorway Curls"
     }
   ]
 }
