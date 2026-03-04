@@ -341,6 +341,12 @@
       "muscle_group": "biceps",
       "dumbbell_exercise": "Concentration Curls",
       "bodyweight_exercise": "Doorway Curls"
+    },
+    {
+      "date": "2026-03-04T13:55:01.483158",
+      "muscle_group": "triceps",
+      "dumbbell_exercise": "Dumbbell Kickbacks",
+      "bodyweight_exercise": "Diamond Push-ups"
     }
   ]
 }
