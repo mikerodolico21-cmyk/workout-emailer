@@ -347,6 +347,12 @@
       "muscle_group": "triceps",
       "dumbbell_exercise": "Dumbbell Kickbacks",
       "bodyweight_exercise": "Diamond Push-ups"
+    },
+    {
+      "date": "2026-03-05T13:59:00.322987",
+      "muscle_group": "chest",
+      "dumbbell_exercise": "Decline Dumbbell Press",
+      "bodyweight_exercise": "Close Push-ups"
     }
   ]
 }
