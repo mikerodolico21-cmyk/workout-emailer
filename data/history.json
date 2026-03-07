@@ -359,6 +359,12 @@
       "muscle_group": "shoulders",
       "dumbbell_exercise": "Lateral Raises",
       "bodyweight_exercise": "Plank Shoulder Taps"
+    },
+    {
+      "date": "2026-03-07T13:35:50.518619",
+      "muscle_group": "abs",
+      "dumbbell_exercise": "Dumbbell Side Bends",
+      "bodyweight_exercise": "Hollow Body Hold"
     }
   ]
 }
