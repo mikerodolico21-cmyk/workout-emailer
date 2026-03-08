@@ -365,6 +365,12 @@
       "muscle_group": "abs",
       "dumbbell_exercise": "Dumbbell Side Bends",
       "bodyweight_exercise": "Hollow Body Hold"
+    },
+    {
+      "date": "2026-03-08T13:37:00.942585",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Goblet Squats",
+      "bodyweight_exercise": "Glute Bridges"
     }
   ]
 }
