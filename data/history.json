@@ -377,6 +377,12 @@
       "muscle_group": "back",
       "dumbbell_exercise": "Reverse Grip Dumbbell Rows",
       "bodyweight_exercise": "Prone Cobras"
+    },
+    {
+      "date": "2026-03-10T13:59:28.036612",
+      "muscle_group": "biceps",
+      "dumbbell_exercise": "Preacher Curls",
+      "bodyweight_exercise": "Bodyweight Bicep Curls"
     }
   ]
 }
