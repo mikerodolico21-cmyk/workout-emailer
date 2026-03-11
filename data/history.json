@@ -383,6 +383,12 @@
       "muscle_group": "biceps",
       "dumbbell_exercise": "Preacher Curls",
       "bodyweight_exercise": "Bodyweight Bicep Curls"
+    },
+    {
+      "date": "2026-03-11T14:03:13.412644",
+      "muscle_group": "triceps",
+      "dumbbell_exercise": "Dumbbell Floor Press",
+      "bodyweight_exercise": "Floor Tricep Extensions"
     }
   ]
 }
