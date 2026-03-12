@@ -389,6 +389,12 @@
       "muscle_group": "triceps",
       "dumbbell_exercise": "Dumbbell Floor Press",
       "bodyweight_exercise": "Floor Tricep Extensions"
+    },
+    {
+      "date": "2026-03-12T14:00:44.940635",
+      "muscle_group": "chest",
+      "dumbbell_exercise": "Dumbbell Squeeze Press",
+      "bodyweight_exercise": "Incline Push-ups"
     }
   ]
 }
