@@ -395,6 +395,12 @@
       "muscle_group": "chest",
       "dumbbell_exercise": "Dumbbell Squeeze Press",
       "bodyweight_exercise": "Incline Push-ups"
+    },
+    {
+      "date": "2026-03-13T13:57:42.174750",
+      "muscle_group": "shoulders",
+      "dumbbell_exercise": "Reverse Flys",
+      "bodyweight_exercise": "Pike Push-ups"
     }
   ]
 }
