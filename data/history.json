@@ -401,6 +401,12 @@
       "muscle_group": "shoulders",
       "dumbbell_exercise": "Reverse Flys",
       "bodyweight_exercise": "Pike Push-ups"
+    },
+    {
+      "date": "2026-03-14T13:42:02.564115",
+      "muscle_group": "abs",
+      "dumbbell_exercise": "Dumbbell Leg Raises",
+      "bodyweight_exercise": "Leg Raises"
     }
   ]
 }
