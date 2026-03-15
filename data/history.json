@@ -407,6 +407,12 @@
       "muscle_group": "abs",
       "dumbbell_exercise": "Dumbbell Leg Raises",
       "bodyweight_exercise": "Leg Raises"
+    },
+    {
+      "date": "2026-03-15T13:43:31.725507",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Dumbbell Calf Raises",
+      "bodyweight_exercise": "Jump Squats"
     }
   ]
 }
