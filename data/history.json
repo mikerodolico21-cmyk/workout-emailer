@@ -413,6 +413,12 @@
       "muscle_group": "legs",
       "dumbbell_exercise": "Dumbbell Calf Raises",
       "bodyweight_exercise": "Jump Squats"
+    },
+    {
+      "date": "2026-03-16T14:18:52.682193",
+      "muscle_group": "back",
+      "dumbbell_exercise": "Dumbbell Shrugs",
+      "bodyweight_exercise": "Supermans"
     }
   ]
 }
