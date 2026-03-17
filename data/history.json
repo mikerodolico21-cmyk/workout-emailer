@@ -419,6 +419,12 @@
       "muscle_group": "back",
       "dumbbell_exercise": "Dumbbell Shrugs",
       "bodyweight_exercise": "Supermans"
+    },
+    {
+      "date": "2026-03-17T14:17:11.455017",
+      "muscle_group": "biceps",
+      "dumbbell_exercise": "Zottman Curls",
+      "bodyweight_exercise": "Doorway Curls"
     }
   ]
 }
