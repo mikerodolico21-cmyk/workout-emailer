@@ -425,6 +425,12 @@
       "muscle_group": "biceps",
       "dumbbell_exercise": "Zottman Curls",
       "bodyweight_exercise": "Doorway Curls"
+    },
+    {
+      "date": "2026-03-18T14:19:55.720083",
+      "muscle_group": "triceps",
+      "dumbbell_exercise": "Dumbbell Skull Crushers",
+      "bodyweight_exercise": "Diamond Push-ups"
     }
   ]
 }
