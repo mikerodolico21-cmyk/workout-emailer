@@ -431,6 +431,12 @@
       "muscle_group": "triceps",
       "dumbbell_exercise": "Dumbbell Skull Crushers",
       "bodyweight_exercise": "Diamond Push-ups"
+    },
+    {
+      "date": "2026-03-19T14:06:27.446376",
+      "muscle_group": "chest",
+      "dumbbell_exercise": "Incline Dumbbell Press",
+      "bodyweight_exercise": "Wide Push-ups"
     }
   ]
 }
