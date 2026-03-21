@@ -443,6 +443,12 @@
       "muscle_group": "shoulders",
       "dumbbell_exercise": "Dumbbell Shoulder Press",
       "bodyweight_exercise": "Wall Walks"
+    },
+    {
+      "date": "2026-03-21T13:39:07.156610",
+      "muscle_group": "abs",
+      "dumbbell_exercise": "Dumbbell Plank Rows",
+      "bodyweight_exercise": "Side Plank"
     }
   ]
 }
