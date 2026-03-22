@@ -449,6 +449,12 @@
       "muscle_group": "abs",
       "dumbbell_exercise": "Dumbbell Plank Rows",
       "bodyweight_exercise": "Side Plank"
+    },
+    {
+      "date": "2026-03-22T13:40:34.866597",
+      "muscle_group": "legs",
+      "dumbbell_exercise": "Dumbbell Deadlifts",
+      "bodyweight_exercise": "Calf Raises"
     }
   ]
 }
